@@ -1,4 +1,4 @@
-Roman to Integer - "https://leetcode.com/problems/roman-to-integer/submissions/"
+Roman to Integer - "https://leetcode.com/problems/roman-to-integer/"
 Submission
 
 
